@@ -1,7 +1,8 @@
 # SFT-vanilla-ResNet
 This repository contains code for training and evaluating an ImageNet-trained ResNet-50 on a data set called Stylized-ImageNet.
 
-)Read below for project motivation)
+Project Motivation:
+
 As society is increasingly finding more novel applications for Convolutional Neural
 Networks (CNNs) - applications for which there’s a high price to pay for incorrectly
 classifying images (e.g. autonomous cars and cancer-detection) - it is important to ensure
