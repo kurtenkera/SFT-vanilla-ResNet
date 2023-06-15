@@ -1,5 +1,5 @@
 # SFT-vanilla-ResNet
-This repository contains code for training and evaluating an ImageNet-trained ResNet-50 on a data set called Stylized-ImageNet.
+This repository contains code for surgically fine-tuning and evaluating an ImageNet-trained ResNet-50 on a data set called Stylized-ImageNet.
 
 Project Motivation:
 
